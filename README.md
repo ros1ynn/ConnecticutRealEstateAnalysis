@@ -1,7 +1,7 @@
 # ConnecticutRealEstateAnalysis
 ----this is a data warehouse written in sql with ETL in sql and python.
 
-# Introduction to this project
+# About this project
 
 # The housing price has been declining in 2022, and the pending home sales nationwide have declined 2% with existing home sales reduced by 0.4% since July 2022 and 19.99% compared to last year. Due to the ongoing global health crisis, labor shortage, layoffs, inflations, and difficulties in the global supply chain, many people are holding low expectations toward the economy and housing market in the coming year. The increased layoffs lead many people to believe the economic downturn in the latter 2022 and upcoming 2023 may be comparable to the economic crisis in 2008. 
 # To have an overview of the near future to build proper plans to maintain security during an economic downturn, it is helpful to reference history to have an overview of the near future other than more savings and less spending. For either real estate agencies, buyers and sellers, or market analysts, access to reliable data from retrospective and present perspectives is essential for analysis and reports purposes to fulfill management duties. Moreover, analysis with reliable data sources can support businesses and individuals in better decision-making and regulate risks in different situations.
